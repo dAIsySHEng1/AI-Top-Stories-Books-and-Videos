@@ -1,4 +1,4 @@
-# AI-Top-Stories-Books-and-Videos-
+# AI-Top-Stories-Books-and-Videos
 AI references
 
 ## Top News/Stories
