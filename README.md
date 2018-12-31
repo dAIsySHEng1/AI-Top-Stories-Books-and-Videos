@@ -8,7 +8,6 @@ AI references
   - https://www.youtube.com/watch?v=nzt18BIAt3g
 
 ## Books
-- Kai-Fu Lee:
-    - (2018-09-25) AI Superpowers: China, Silicon Valley, and the New World Order 
+- (2018-09-25) AI Superpowers: China, Silicon Valley, and the New World Order by Kai-Fu Lee
         - https://www.amazon.com/AI-Superpowers-China-Silicon-Valley-ebook/dp/B0795DNWCF 
-
+- (2018-02-01) Artificial Intelligence: 101 Things You Must Know Today About Our Future by Lasse Rouhiainen
