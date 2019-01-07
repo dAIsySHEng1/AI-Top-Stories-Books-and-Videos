@@ -1,5 +1,5 @@
 # AI-Top-Stories-Books-and-Videos
-AI references
+AI References
 
 ## Top News/Stories
 - (2018-10-15) MIT establishes the Stephen A. Schwarzman College of Computing: 
@@ -10,4 +10,5 @@ AI references
 - (2018-09-25) AI Superpowers: China, Silicon Valley, and the New World Order by Kai-Fu Lee
     - https://www.amazon.com/AI-Superpowers-China-Silicon-Valley-ebook/dp/B0795DNWCF 
 - (2018-02-01) Artificial Intelligence: 101 Things You Must Know Today About Our Future by Lasse Rouhiainen
+    - An introductory book for all ages, with no prior AI knowledge required. 
     - https://www.amazon.com/Artificial-Intelligence-Things-Today-Future-ebook/dp/B079JXCVGS/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1546287292&sr=1-1&keywords=AI+101
