@@ -19,3 +19,5 @@ AI References
 - The video below clearly explains what areas of math are widely used in machine learning.
     - https://www.youtube.com/watch?v=8onB7rPG4Pk
 
+## Videos
+- A great explanation of Neural Networks: https://www.youtube.com/watch?v=aircAruvnKk
